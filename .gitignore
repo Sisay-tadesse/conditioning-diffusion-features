@@ -1,0 +1,8 @@
+logs/
+*.out
+*.pt
+*.pth
+*.safetensors
+__pycache__/
+*.pyc
+.venv/
