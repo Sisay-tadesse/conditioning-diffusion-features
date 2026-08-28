@@ -1,8 +1,11 @@
-logs/
-*.out
+# cached features and probe inputs: large, and regenerable from src/
 *.pt
 *.pth
-*.safetensors
+
+# job output
+logs/
+*.out
+
 __pycache__/
 *.pyc
 .venv/
